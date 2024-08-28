@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MobileDevProject</string>
+    <string name="text_login">Login</string>
+    <string name="email">Email</string>
+    <string name="signup_text">SIGNUP</string>
+    <string name="signinRedirect_text">Already Registered? Login</string>
+    <string name="login_text">LOGIN</string>
+    <string name="signupRedirect_text">Not Registered? Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="app_does">This application enables for the search of movies and tv shows by key words.
+        Firstly, this app allows the user to sign up and login in order to use the app.
+        They are then taken to the movie/show search screen.
+        From there they have the option of clicking on the menu button in order to see project details.</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977440950540",
+    "project_id": "kareemidrismobiledevproject",
+    "storage_bucket": "kareemidrismobiledevproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977440950540:android:f9fb5012feba819828e129",
+        "android_client_info": {
+          "package_name": "com.kidris.info5126mobileproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulIyh0hiwzgOh9A_OF-H_C3BUupg6dXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
